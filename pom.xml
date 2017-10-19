@@ -3,7 +3,7 @@
 
 	<groupId>am</groupId>
     <artifactId>Snapshot</artifactId>
-    <version>1.10-SNAPSHOT</version>
+    <version>1.10</version>
 	<packaging>jar</packaging>
 
 	<name>hello</name>
@@ -28,7 +28,7 @@
 		<connection>scm:git:${github.url}</connection>
 		<url>${github.url}</url>
 		<developerConnection>scm:git:${github.url}</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v1.10</tag>
 	</scm>
 
 	<build>
